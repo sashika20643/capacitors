@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1693639605 source:c:\users\asus\documents\project1\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<cmath>
+	<fstream>
+
